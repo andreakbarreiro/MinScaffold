@@ -312,6 +312,7 @@ def compute_cycles(GlobalOptions, epsList):
 
         for e in epsList:
 
+            #print(e)
             Wstep = filterMatrix(W,e)
 
             G = SimplexGraph(nVert,Wstep, maximal)
