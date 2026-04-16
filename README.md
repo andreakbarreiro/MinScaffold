@@ -1,3 +1,6 @@
+# MinScaffold: Dallas edition
+See examples/Introduction_MyData.ipynb for application to our specific data
+
 # MinScaffold
 Python3 implementation of the Minimal Homological Scaffold 
 (Dey, Li, Wang: Efficient algorithms for computing a minimal homology basis. Latin American Symposium on Theoretical Informatics (2018))
